@@ -1,0 +1,25 @@
+{
+  "name": "learning-gulp",
+  "version": "1.0.0",
+  "description": "learning gulp build system",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "git": "https://github.com/erickg-gomez/ionic-gulp-seed.git",
+  "author": "Erick Gomez",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.1",
+    "gulp-if": "^2.0.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-print": "^2.0.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "yargs": "^4.8.0"
+  }
+}
